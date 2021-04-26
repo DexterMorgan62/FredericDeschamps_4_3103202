@@ -1,0 +1,2 @@
+User-Agent: * #autorise l’accès à tous les robots 
+Allow: / #autorise l’accès à tout les dossiers
